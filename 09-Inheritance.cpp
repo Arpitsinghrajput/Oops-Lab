@@ -30,6 +30,7 @@ class Student: private Person, Sport{
             cin>>sportName;
             cout<<"Enter the Medals: "<<endl;
             cin>>medals;
+            cout<<"Done"<<endl;
         }
 };
 
